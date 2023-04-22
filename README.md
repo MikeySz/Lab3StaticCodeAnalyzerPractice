@@ -1,2 +1,2 @@
 # Lab3StaticCodeAnalyzerPractice
-a repository to be used with Synk tool to peforme static code analsis.
+A repository to be used with Synk tool to peform static code analysis.
